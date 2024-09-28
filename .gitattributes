@@ -10,3 +10,6 @@
 # Binary files should be left untouched
 *.jar           binary
 
+# Ruby compilation on windows is a pain; trying to set all code files to lf
+*.rb text eol=lf
+*.java text eol=lf
