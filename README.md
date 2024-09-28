@@ -11,3 +11,8 @@ Java code can then depend on that jruby code directly, with proper typing etc.
 
 `gradle build run` to build and run the project.
 
+## TODO
+
+- integrating rspec tests for ruby classes nicely to gradle
+- selecting compilation methods (.java vs .class, .jar libary?)
+- gradle plugin?
